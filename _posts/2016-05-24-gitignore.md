@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Splashcreens
+title: Adding .gitignore to repo locally 
 ---
 
 adding .gitignore :
