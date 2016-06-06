@@ -3,7 +3,9 @@ layout: post
 title: implementing list view as explained by Derek Banas 
 ---
 
-Runtime errors are the worst. I was using Derek Bantors as example to do my own implementaion of listviews 
+Runtime errors are the worst. 
+
+I was using Derek Banas tutorial to learn hot to implemennt listviews 
 
 with a customized row layout.
 
